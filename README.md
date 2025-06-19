@@ -18,7 +18,7 @@ Between **2017 and 2025**, I evolved through roles in **QA and Automation Engine
 
 I'm currently working on a long-term project hosted under the [**DevOpsLabs** GitHub organization](https://github.com/RanM-DevOpsLabs), where I experiment with and showcase different DevOps concepts in a modular, practical way.
 
-Each repository in DevOpsLabs is focused on a specific domain or use case—covering areas like:
+Each repository in DevOpsLabs is focused on a specific domain or use case - covering areas like:
 - **Infrastructure as Code (IaC)** with Terraform
 - **CI/CD pipelines**
 - **Kubernetes environments**
